@@ -1,0 +1,11 @@
+.stopwatch {
+  height: 100vh;
+  background-image: url("https://assets.ccbp.in/frontend/react-js/stopwatch-sm-bg.png");
+  background-size: cover;
+}
+@media screen and (min-width: 768px) {
+  .stopwatch {
+    background-image: url("https://assets.ccbp.in/frontend/react-js/stopwatch-lg-bg.png");
+    background-size: cover;
+  }
+}
